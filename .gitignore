@@ -1,0 +1,5 @@
+lab3-*/.venv/
+lab3-*/verif*/
+lab3-*/TESTBENCH/input.txt
+lab3-*/*.vcd
+lab3-*/*.fsdb
